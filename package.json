@@ -1,0 +1,19 @@
+{
+  "name": "dom.position",
+  "version": "0.0.0",
+  "description": "dom position functions",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shtylman/dom.position.git"
+  },
+  "keywords": [
+    "dom",
+    "position"
+  ],
+  "author": "Roman Shtylman <shtylman@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shtylman/dom.position/issues"
+  }
+}
